@@ -1,6 +1,6 @@
 // Copyright © 2023 Apple Inc.
 //
-#include <nlohmann/json.hpp>
+#include <json.hpp>
 #include <stack>
 
 #include "mlx/io.h"
